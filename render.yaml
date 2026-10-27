@@ -1,0 +1,29 @@
+# Render Blueprint: one web service + one PostgreSQL database.
+# Render dashboard → New → Blueprint → pick this repository.
+services:
+  - type: web
+    name: prepledger
+    runtime: node
+    plan: free
+    buildCommand: npm ci --include=dev && npm run build
+    # seed is idempotent: first boot creates the schema, taxonomy, sample set and admin; later boots only migrate
+    startCommand: npx tsx scripts/seed.ts && npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        fromDatabase:
+          name: prepledger-db
+          property: connectionString
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+databases:
+  - name: prepledger-db
+    plan: free

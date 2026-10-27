@@ -1,0 +1,4562 @@
+{
+  "format_version": 1,
+  "source": {
+    "source_type": "original_sample",
+    "title": "PrepLedger original sample questions",
+    "publisher": "PrepLedger",
+    "license": "CC BY 4.0 — original work authored for PrepLedger",
+    "rights_holder": "PrepLedger contributors",
+    "permission_note": "Written specifically for this project as demonstration content. Not copied from any past paper, book or third-party website.",
+    "notes": "Sample data. Not past-year questions. Answer keys are editorial, not official."
+  },
+  "papers": [
+    {
+      "ref": "sample.paper.jee-main.1",
+      "exam": "jee-main",
+      "slug": "sample-practice-set-1",
+      "title": "JEE Main Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 45,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.jee-advanced.1",
+      "exam": "jee-advanced",
+      "slug": "sample-practice-set-1",
+      "title": "JEE Advanced Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 28,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.mht-cet.1",
+      "exam": "mht-cet",
+      "slug": "sample-practice-set-1",
+      "title": "MHT CET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.bitsat.1",
+      "exam": "bitsat",
+      "slug": "sample-practice-set-1",
+      "title": "BITSAT Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 13,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        },
+        {
+          "key": "english-proficiency",
+          "name": "English Proficiency",
+          "subject_slug": "english-proficiency"
+        },
+        {
+          "key": "logical-reasoning",
+          "name": "Logical Reasoning",
+          "subject_slug": "logical-reasoning"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.comedk.1",
+      "exam": "comedk",
+      "slug": "sample-practice-set-1",
+      "title": "COMEDK Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.wbjee.1",
+      "exam": "wbjee",
+      "slug": "sample-practice-set-1",
+      "title": "WBJEE Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.kcet.1",
+      "exam": "kcet",
+      "slug": "sample-practice-set-1",
+      "title": "KCET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.viteee.1",
+      "exam": "viteee",
+      "slug": "sample-practice-set-1",
+      "title": "VITEEE Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 13,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        },
+        {
+          "key": "english",
+          "name": "English",
+          "subject_slug": "english"
+        },
+        {
+          "key": "aptitude",
+          "name": "Aptitude",
+          "subject_slug": "aptitude"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.ap-eapcet.1",
+      "exam": "ap-eapcet",
+      "slug": "sample-practice-set-1",
+      "title": "AP EAPCET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.ts-eamcet.1",
+      "exam": "ts-eamcet",
+      "slug": "sample-practice-set-1",
+      "title": "TS EAMCET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.keam.1",
+      "exam": "keam",
+      "slug": "sample-practice-set-1",
+      "title": "KEAM Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.gujcet.1",
+      "exam": "gujcet",
+      "slug": "sample-practice-set-1",
+      "title": "GUJCET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.ojee.1",
+      "exam": "ojee",
+      "slug": "sample-practice-set-1",
+      "title": "OJEE Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 10,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "mathematics",
+          "name": "Mathematics",
+          "subject_slug": "mathematics"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    },
+    {
+      "ref": "sample.paper.neet.1",
+      "exam": "neet",
+      "slug": "sample-practice-set-1",
+      "title": "NEET Sample Practice Set 1",
+      "kind": "sample",
+      "duration_minutes": 30,
+      "sections": [
+        {
+          "key": "physics",
+          "name": "Physics",
+          "subject_slug": "physics"
+        },
+        {
+          "key": "chemistry",
+          "name": "Chemistry",
+          "subject_slug": "chemistry"
+        },
+        {
+          "key": "biology",
+          "name": "Biology",
+          "subject_slug": "biology"
+        }
+      ],
+      "availability": "full",
+      "verification_status": "unverified",
+      "notes": "Original practice set written for PrepLedger. Not a past examination paper."
+    }
+  ],
+  "diagrams": [
+    {
+      "ref": "incline-30",
+      "url": "/assets/diagrams/incline-30.svg",
+      "alt_text": "A 2 kg block resting on a smooth plane inclined at 30 degrees to the horizontal.",
+      "width": 360,
+      "height": 200,
+      "license": "CC BY 4.0 — original PrepLedger diagram"
+    },
+    {
+      "ref": "circuit-6-3-4",
+      "url": "/assets/diagrams/circuit-6-3-4.svg",
+      "alt_text": "Circuit with a 12 V battery, a 6 ohm and a 3 ohm resistor in parallel, followed by a 4 ohm resistor in series.",
+      "width": 380,
+      "height": 214,
+      "license": "CC BY 4.0 — original PrepLedger diagram"
+    },
+    {
+      "ref": "energy-pyramid",
+      "url": "/assets/diagrams/energy-pyramid.svg",
+      "alt_text": "Pyramid of energy with four trophic levels; producers at the base hold 10,000 joules.",
+      "caption": "Pyramid of energy (not to scale)",
+      "width": 360,
+      "height": 220,
+      "license": "CC BY 4.0 — original PrepLedger diagram"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "sample.ja.passage.kinetics",
+      "title": "Passage: first-order decomposition",
+      "body": "A substance $\\ce{A}$ decomposes by first-order kinetics, $\\ce{A -> products}$, with a rate constant $k = 0.0693\\ \\text{min}^{-1}$ at a fixed temperature. Answer the following questions based on this information. (Take $\\ln 2 = 0.693$.)"
+    }
+  ],
+  "questions": [
+    {
+      "ref": "sample.jm.p1",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "units-and-measurements",
+      "body": "The physical quantity having the same dimensional formula as Planck's constant $h$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "From $E = h\\nu$,\n$$[h] = \\frac{[E]}{[\\nu]} = \\frac{[ML^2T^{-2}]}{[T^{-1}]} = [ML^2T^{-1}]$$\nAngular momentum $L = mvr$ has dimensions $[M][LT^{-1}][L] = [ML^2T^{-1}]$, the same as $h$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "linear momentum"
+        },
+        {
+          "label": "B",
+          "body": "angular momentum"
+        },
+        {
+          "label": "C",
+          "body": "energy"
+        },
+        {
+          "label": "D",
+          "body": "power"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.p2",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "motion-in-a-straight-line",
+      "body": "A ball is thrown vertically upward with a speed of $20\\ \\text{m s}^{-1}$. Taking $g = 10\\ \\text{m s}^{-2}$ and neglecting air resistance, the maximum height reached by the ball is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "At the highest point $v = 0$. Using $v^2 = u^2 - 2gh$:\n$$h = \\frac{u^2}{2g} = \\frac{(20)^2}{2 \\times 10} = 20\\ \\text{m}$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 2,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$10\\ \\text{m}$"
+        },
+        {
+          "label": "B",
+          "body": "$20\\ \\text{m}$"
+        },
+        {
+          "label": "C",
+          "body": "$30\\ \\text{m}$"
+        },
+        {
+          "label": "D",
+          "body": "$40\\ \\text{m}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.p3",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "laws-of-motion",
+      "body": "A block of mass $2\\ \\text{kg}$ is released from rest on a smooth inclined plane making an angle of $30^\\circ$ with the horizontal, as shown. Taking $g = 10\\ \\text{m s}^{-2}$, the acceleration of the block along the incline is\n\n![Block of mass 2 kg resting on a smooth plane inclined at 30 degrees to the horizontal](diagram:incline-30)",
+      "difficulty": "easy",
+      "topics": [
+        "inclined-plane"
+      ],
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "On a smooth incline the only force along the plane is the component of gravity, $mg\\sin\\theta$. Hence\n$$a = g\\sin 30^\\circ = 10 \\times \\tfrac{1}{2} = 5\\ \\text{m s}^{-2}$$\nThe acceleration is independent of the mass.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 3,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$2.5\\ \\text{m s}^{-2}$"
+        },
+        {
+          "label": "B",
+          "body": "$5\\ \\text{m s}^{-2}$"
+        },
+        {
+          "label": "C",
+          "body": "$8.66\\ \\text{m s}^{-2}$"
+        },
+        {
+          "label": "D",
+          "body": "$10\\ \\text{m s}^{-2}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.p4",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "current-electricity",
+      "body": "In the circuit shown, resistors of $6\\ \\Omega$ and $3\\ \\Omega$ are connected in parallel, and the combination is in series with a $4\\ \\Omega$ resistor across an ideal $12\\ \\text{V}$ battery. The current (in ampere) drawn from the battery is ______.\n\n![Circuit diagram: a 12 V battery connected to a parallel pair of 6 ohm and 3 ohm resistors followed by a 4 ohm resistor in series](diagram:circuit-6-3-4)",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Parallel combination: $R_p = \\dfrac{6 \\times 3}{6 + 3} = 2\\ \\Omega$.\n\nTotal resistance: $R = 2 + 4 = 6\\ \\Omega$.\n\nCurrent: $I = \\dfrac{V}{R} = \\dfrac{12}{6} = 2\\ \\text{A}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)",
+          "method_label": "Method 1"
+        },
+        {
+          "kind": "editorial",
+          "body": "Conductance of the parallel pair is $\\tfrac{1}{6} + \\tfrac{1}{3} = \\tfrac{1}{2}\\ \\text{S}$, so $R_p = 2\\ \\Omega$. With the $4\\ \\Omega$ resistor in series the circuit is a $1:2$ voltage divider: $4\\ \\text{V}$ across the pair and $8\\ \\text{V}$ across $4\\ \\Omega$, so $I = 8/4 = 2\\ \\text{A}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)",
+          "method_label": "Method 2: conductance"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 4,
+          "section": "physics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 2
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.p5",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "geometrical-optics",
+      "body": "An object is placed $30\\ \\text{cm}$ in front of a thin convex lens of focal length $20\\ \\text{cm}$. The distance (in cm) of the image from the lens is ______.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Using the lens formula with $u = -30\\ \\text{cm}$ and $f = +20\\ \\text{cm}$:\n$$\\frac{1}{v} - \\frac{1}{u} = \\frac{1}{f} \\;\\Rightarrow\\; \\frac{1}{v} = \\frac{1}{20} - \\frac{1}{30} = \\frac{1}{60}$$\nSo $v = +60\\ \\text{cm}$ (real image on the other side of the lens).",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 5,
+          "section": "physics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 60
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.p6",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "heat-and-thermodynamics",
+      "body": "For an ideal monoatomic gas, the ratio of specific heats $\\gamma = C_p / C_v$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "A monoatomic gas has 3 translational degrees of freedom, so $C_v = \\tfrac{3}{2}R$ and $C_p = C_v + R = \\tfrac{5}{2}R$. Therefore $\\gamma = \\dfrac{5/2}{3/2} = \\dfrac{5}{3}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 6,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\dfrac{7}{5}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\dfrac{5}{3}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\dfrac{4}{3}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\dfrac{9}{7}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c1",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "some-basic-concepts-of-chemistry",
+      "body": "The number of moles of carbon dioxide present in $11\\ \\text{g}$ of $\\ce{CO2}$ is ______. (Molar mass of $\\ce{CO2}$ = $44\\ \\text{g mol}^{-1}$)",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$n = \\dfrac{m}{M} = \\dfrac{11}{44} = 0.25\\ \\text{mol}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 7,
+          "section": "chemistry"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 0.25
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c2",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "chemical-bonding-and-molecular-structure",
+      "body": "The hybridisation of the central sulphur atom in $\\ce{SF6}$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Sulphur forms six $\\sigma$ bonds with fluorine and has no lone pair, giving six electron domains around S. Six domains correspond to $sp^3d^2$ hybridisation and an octahedral geometry.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 8,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$sp^3$"
+        },
+        {
+          "label": "B",
+          "body": "$sp^3d$"
+        },
+        {
+          "label": "C",
+          "body": "$sp^3d^2$"
+        },
+        {
+          "label": "D",
+          "body": "$dsp^2$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c3",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "electrochemistry",
+      "body": "For the cell reaction\n$$\\ce{Zn(s) + Cu^2+(aq) -> Zn^2+(aq) + Cu(s)}$$\nthe standard electrode potentials are $E^\\circ_{\\ce{Zn^2+/Zn}} = -0.76\\ \\text{V}$ and $E^\\circ_{\\ce{Cu^2+/Cu}} = +0.34\\ \\text{V}$. The standard emf of the cell is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Zinc is oxidised (anode) and copper ions are reduced (cathode):\n$$E^\\circ_{\\text{cell}} = E^\\circ_{\\text{cathode}} - E^\\circ_{\\text{anode}} = 0.34 - (-0.76) = 1.10\\ \\text{V}$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 9,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$0.42\\ \\text{V}$"
+        },
+        {
+          "label": "B",
+          "body": "$1.10\\ \\text{V}$"
+        },
+        {
+          "label": "C",
+          "body": "$-1.10\\ \\text{V}$"
+        },
+        {
+          "label": "D",
+          "body": "$0.76\\ \\text{V}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c4",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "solutions",
+      "body": "$4\\ \\text{g}$ of $\\ce{NaOH}$ is dissolved in $500\\ \\text{g}$ of water. The molality of the solution (in $\\text{mol kg}^{-1}$) is ______. (Molar mass of $\\ce{NaOH}$ = $40\\ \\text{g mol}^{-1}$)",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Moles of solute $= 4/40 = 0.1\\ \\text{mol}$; mass of solvent $= 0.5\\ \\text{kg}$.\n$$m = \\frac{0.1}{0.5} = 0.2\\ \\text{mol kg}^{-1}$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 10,
+          "section": "chemistry"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 0.2
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c5",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "hydrocarbons",
+      "body": "The major product of the reaction of propene with $\\ce{HBr}$ in the absence of peroxide is\n$$\\ce{CH3-CH=CH2 + HBr -> ?}$$",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "In the absence of peroxide, addition follows Markovnikov's rule: $\\ce{H+}$ adds to the terminal carbon to give the more stable secondary carbocation $\\ce{CH3-\\overset{+}{C}H-CH3}$, which is captured by $\\ce{Br-}$ to give 2-bromopropane.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 11,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "1-bromopropane"
+        },
+        {
+          "label": "B",
+          "body": "2-bromopropane"
+        },
+        {
+          "label": "C",
+          "body": "1,2-dibromopropane"
+        },
+        {
+          "label": "D",
+          "body": "propane"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.c6",
+      "exam": "jee-main",
+      "subject": "chemistry",
+      "chapter": "coordination-compounds",
+      "body": "The oxidation state of iron in $\\ce{K4[Fe(CN)6]}$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Let the oxidation state of Fe be $x$. Each $\\ce{K}$ is $+1$ and each $\\ce{CN-}$ is $-1$:\n$$4(+1) + x + 6(-1) = 0 \\;\\Rightarrow\\; x = +2$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 12,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "+2"
+        },
+        {
+          "label": "B",
+          "body": "+3"
+        },
+        {
+          "label": "C",
+          "body": "+4"
+        },
+        {
+          "label": "D",
+          "body": "0"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "revised",
+        "source": "editorial",
+        "note": "Sample record illustrating correction history: the editorial key was corrected from C to A after review.",
+        "effective_at": "2026-01-15"
+      },
+      "answer_history": [
+        {
+          "value": {
+            "options": [
+              "C"
+            ]
+          },
+          "status": "final",
+          "source": "editorial",
+          "note": "Initial editorial key (incorrect).",
+          "effective_at": "2026-01-10"
+        }
+      ]
+    },
+    {
+      "ref": "sample.jm.m1",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "quadratic-equation-and-inequalities",
+      "body": "If $\\alpha$ and $\\beta$ are the roots of $x^2 - 5x + 6 = 0$, then $\\alpha^2 + \\beta^2$ equals",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\alpha + \\beta = 5$ and $\\alpha\\beta = 6$, so\n$$\\alpha^2 + \\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta = 25 - 12 = 13$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 13,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "11"
+        },
+        {
+          "label": "B",
+          "body": "13"
+        },
+        {
+          "label": "C",
+          "body": "25"
+        },
+        {
+          "label": "D",
+          "body": "36"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.m2",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "complex-numbers",
+      "body": "The value of $(1 + i)^8$, where $i = \\sqrt{-1}$, is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$(1+i)^2 = 1 + 2i + i^2 = 2i$. Hence $(1+i)^8 = (2i)^4 = 16\\, i^4 = 16$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 14,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "4"
+        },
+        {
+          "label": "B",
+          "body": "8"
+        },
+        {
+          "label": "C",
+          "body": "16"
+        },
+        {
+          "label": "D",
+          "body": "256"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.m3",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "matrices-and-determinants",
+      "body": "The value of the determinant\n$$\\begin{vmatrix} 1 & 2 & 3 \\\\ 0 & 1 & 4 \\\\ 0 & 0 & 5 \\end{vmatrix}$$\nis ______.",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "The matrix is upper triangular, so its determinant is the product of the diagonal entries: $1 \\times 1 \\times 5 = 5$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 15,
+          "section": "mathematics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 5
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.m4",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "definite-integration",
+      "body": "The value of $\\displaystyle\\int_0^1 \\left(3x^2 + 2x\\right)\\,dx$ is ______.",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$$\\int_0^1 (3x^2 + 2x)\\,dx = \\Big[x^3 + x^2\\Big]_0^1 = 1 + 1 = 2$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)",
+          "method_label": "Method 1"
+        },
+        {
+          "kind": "editorial",
+          "body": "$\\int_0^1 3x^2\\,dx = 1$ (area under $3x^2$) and $\\int_0^1 2x\\,dx = 1$ (a right triangle with base 1 and height 2). The sum is $2$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)",
+          "method_label": "Method 2: geometric reading"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 16,
+          "section": "mathematics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "numeric": 2
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.m5",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "probability",
+      "body": "Two fair dice are thrown together. The probability that the sum of the numbers shown is $7$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Favourable outcomes: $(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)$ — six of the $36$ equally likely outcomes. $P = 6/36 = 1/6$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 17,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\dfrac{1}{12}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\dfrac{1}{6}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\dfrac{5}{36}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\dfrac{7}{36}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.jm.m6",
+      "exam": "jee-main",
+      "subject": "mathematics",
+      "chapter": "vector-algebra",
+      "body": "The angle between the vectors $\\vec{a} = \\hat{i} + 2\\hat{j} + 2\\hat{k}$ and $\\vec{b} = 2\\hat{i} - \\hat{j}$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\vec{a}\\cdot\\vec{b} = (1)(2) + (2)(-1) + (2)(0) = 0$. A zero dot product between non-zero vectors means they are perpendicular, so the angle is $90^\\circ$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-main.1",
+          "number": 18,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$0^\\circ$"
+        },
+        {
+          "label": "B",
+          "body": "$45^\\circ$"
+        },
+        {
+          "label": "C",
+          "body": "$60^\\circ$"
+        },
+        {
+          "label": "D",
+          "body": "$90^\\circ$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "D"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.p1",
+      "exam": "jee-advanced",
+      "subject": "physics",
+      "chapter": "rotational-motion",
+      "body": "The moment of inertia of a uniform solid sphere of mass $M$ and radius $R$ about an axis tangent to its surface is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "About a diameter $I_{cm} = \\tfrac{2}{5}MR^2$. By the parallel-axis theorem with $d = R$:\n$$I = \\tfrac{2}{5}MR^2 + MR^2 = \\tfrac{7}{5}MR^2$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\tfrac{2}{5}MR^2$"
+        },
+        {
+          "label": "B",
+          "body": "$\\tfrac{7}{5}MR^2$"
+        },
+        {
+          "label": "C",
+          "body": "$\\tfrac{2}{3}MR^2$"
+        },
+        {
+          "label": "D",
+          "body": "$\\tfrac{5}{3}MR^2$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.p2",
+      "exam": "jee-advanced",
+      "subject": "physics",
+      "chapter": "electrostatics",
+      "body": "An isolated conducting sphere of radius $R$ carries a charge $Q$. Taking $k = \\dfrac{1}{4\\pi\\varepsilon_0}$ and the potential at infinity as zero, which of the following statements is/are correct?",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Charge resides on the surface of a conductor, so $E = 0$ inside (A correct). Since $E = -dV/dr = 0$, the potential inside equals its surface value $kQ/R$ (B correct; D wrong). Just outside, the sphere acts like a point charge: $E = kQ/R^2$ (C correct).",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 2,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_multi",
+      "options": [
+        {
+          "label": "A",
+          "body": "The electric field everywhere inside the sphere is zero."
+        },
+        {
+          "label": "B",
+          "body": "The potential everywhere inside the sphere is $\\dfrac{kQ}{R}$."
+        },
+        {
+          "label": "C",
+          "body": "The magnitude of the electric field just outside the surface is $\\dfrac{kQ}{R^2}$."
+        },
+        {
+          "label": "D",
+          "body": "The potential at the centre of the sphere is zero."
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A",
+            "B",
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.p3",
+      "exam": "jee-advanced",
+      "subject": "physics",
+      "chapter": "simple-harmonic-motion",
+      "body": "A block of mass $1\\ \\text{kg}$ attached to a light spring of force constant $100\\ \\text{N m}^{-1}$ oscillates on a smooth horizontal surface. The time period of oscillation, in seconds, correct to two decimal places, is ______.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$$T = 2\\pi\\sqrt{\\frac{m}{k}} = 2\\pi\\sqrt{\\frac{1}{100}} = \\frac{2\\pi}{10} \\approx 0.628\\ \\text{s} \\approx 0.63\\ \\text{s}$$\nAnswers in the range $0.62$–$0.64$ are accepted to allow for rounding of $\\pi$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 3,
+          "section": "physics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "range": [
+            0.62,
+            0.64
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.p4",
+      "exam": "jee-advanced",
+      "subject": "physics",
+      "chapter": "units-and-measurements",
+      "body": "Match each physical quantity in List-I with its dimensional formula in List-II and choose the correct option.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "- Force $= ma \\Rightarrow [MLT^{-2}]$ (3)\n- Pressure $= F/A \\Rightarrow [ML^{-1}T^{-2}]$ (1)\n- Work $= F\\cdot d \\Rightarrow [ML^2T^{-2}]$ (4)\n- Impulse $= F\\,\\Delta t \\Rightarrow [MLT^{-1}]$ (2)",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 4,
+          "section": "physics"
+        }
+      ],
+      "type": "matrix_match",
+      "matrix": {
+        "left_title": "List-I",
+        "right_title": "List-II",
+        "left": [
+          {
+            "key": "P",
+            "body": "Force"
+          },
+          {
+            "key": "Q",
+            "body": "Pressure"
+          },
+          {
+            "key": "R",
+            "body": "Work"
+          },
+          {
+            "key": "S",
+            "body": "Impulse"
+          }
+        ],
+        "right": [
+          {
+            "key": "1",
+            "body": "$[ML^{-1}T^{-2}]$"
+          },
+          {
+            "key": "2",
+            "body": "$[MLT^{-1}]$"
+          },
+          {
+            "key": "3",
+            "body": "$[MLT^{-2}]$"
+          },
+          {
+            "key": "4",
+            "body": "$[ML^{2}T^{-2}]$"
+          }
+        ]
+      },
+      "options": [
+        {
+          "label": "A",
+          "body": "P $\\to$ 3; Q $\\to$ 1; R $\\to$ 4; S $\\to$ 2"
+        },
+        {
+          "label": "B",
+          "body": "P $\\to$ 2; Q $\\to$ 1; R $\\to$ 4; S $\\to$ 3"
+        },
+        {
+          "label": "C",
+          "body": "P $\\to$ 3; Q $\\to$ 4; R $\\to$ 1; S $\\to$ 2"
+        },
+        {
+          "label": "D",
+          "body": "P $\\to$ 1; Q $\\to$ 3; R $\\to$ 2; S $\\to$ 4"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.c1",
+      "exam": "jee-advanced",
+      "subject": "chemistry",
+      "chapter": "chemical-kinetics",
+      "body": "The half-life of the reaction, in minutes, is ______.",
+      "difficulty": "medium",
+      "passage": "sample.ja.passage.kinetics",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "For a first-order reaction $t_{1/2} = \\dfrac{0.693}{k} = \\dfrac{0.693}{0.0693} = 10\\ \\text{min}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 5,
+          "section": "chemistry"
+        }
+      ],
+      "type": "integer",
+      "answer": {
+        "value": {
+          "numeric": 10
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.c2",
+      "exam": "jee-advanced",
+      "subject": "chemistry",
+      "chapter": "chemical-kinetics",
+      "body": "The time, in minutes, required for $75\\%$ of the reactant to be consumed is ______.",
+      "difficulty": "medium",
+      "passage": "sample.ja.passage.kinetics",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$75\\%$ completion leaves $25\\% = (1/2)^2$ of the reactant, i.e. two half-lives: $2 \\times 10 = 20\\ \\text{min}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 6,
+          "section": "chemistry"
+        }
+      ],
+      "type": "integer",
+      "answer": {
+        "value": {
+          "numeric": 20
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.c3",
+      "exam": "jee-advanced",
+      "subject": "chemistry",
+      "chapter": "ionic-equilibrium",
+      "body": "The pH of a $1.0 \\times 10^{-3}\\ \\text{M}$ aqueous solution of $\\ce{HCl}$ at $25^\\circ\\text{C}$ is ______.",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\ce{HCl}$ is a strong acid, so $[\\ce{H+}] = 10^{-3}\\ \\text{M}$ (water's contribution is negligible). $\\text{pH} = -\\log_{10}(10^{-3}) = 3$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 7,
+          "section": "chemistry"
+        }
+      ],
+      "type": "integer",
+      "answer": {
+        "value": {
+          "numeric": 3
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.c4",
+      "exam": "jee-advanced",
+      "subject": "chemistry",
+      "chapter": "aldehydes-ketones-and-carboxylic-acids",
+      "body": "Which of the following give(s) a positive Tollens' test (silver mirror)?",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Aldehydes reduce Tollens' reagent, so formaldehyde (A) and acetaldehyde (B) give a silver mirror. Formic acid (D) contains an aldehyde-like $\\ce{H-C(=O)-}$ group and is also oxidised. Acetone (C), a ketone, does not respond.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 8,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_multi",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\ce{HCHO}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\ce{CH3CHO}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\ce{CH3COCH3}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\ce{HCOOH}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A",
+            "B",
+            "D"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.m1",
+      "exam": "jee-advanced",
+      "subject": "mathematics",
+      "chapter": "limits-continuity-and-differentiability",
+      "body": "Let $f:\\mathbb{R}\\to\\mathbb{R}$ be defined by $f(x) = |x|$. Which of the following statements is/are TRUE?",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\lim_{x\\to0}|x| = 0 = f(0)$, so $f$ is continuous at $0$ (A). The left derivative is $-1$ and the right derivative is $+1$, so $f$ is not differentiable at $0$ (B false). $|x| \\ge 0 = f(0)$, so the minimum is at $0$ (C). $f(-x) = f(x)$, so $f$ is even, not odd (D false).",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 9,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_multi",
+      "options": [
+        {
+          "label": "A",
+          "body": "$f$ is continuous at $x = 0$"
+        },
+        {
+          "label": "B",
+          "body": "$f$ is differentiable at $x = 0$"
+        },
+        {
+          "label": "C",
+          "body": "$f$ attains its minimum value at $x = 0$"
+        },
+        {
+          "label": "D",
+          "body": "$f$ is an odd function"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A",
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.m2",
+      "exam": "jee-advanced",
+      "subject": "mathematics",
+      "chapter": "sequences-and-series",
+      "body": "The sum of the first $n$ terms of the arithmetic progression $2, 5, 8, \\ldots$ is $155$. The value of $n$ is ______.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$S_n = \\dfrac{n}{2}\\big[2(2) + (n-1)3\\big] = \\dfrac{n(3n+1)}{2} = 155$, so $3n^2 + n - 310 = 0$.\n$$n = \\frac{-1 + \\sqrt{1 + 3720}}{6} = \\frac{-1 + 61}{6} = 10$$",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 10,
+          "section": "mathematics"
+        }
+      ],
+      "type": "integer",
+      "answer": {
+        "value": {
+          "numeric": 10
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ja.m3",
+      "exam": "jee-advanced",
+      "subject": "mathematics",
+      "chapter": "probability",
+      "body": "A fair coin is tossed three times. The probability of getting at least one head, correct to two decimal places, is ______.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$P(\\text{no head}) = (1/2)^3 = 1/8$, so $P(\\text{at least one head}) = 1 - 1/8 = 7/8 = 0.875$. Both $0.87$ and $0.88$ are accepted as two-decimal roundings.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.jee-advanced.1",
+          "number": 11,
+          "section": "mathematics"
+        }
+      ],
+      "type": "numerical",
+      "answer": {
+        "value": {
+          "range": [
+            0.87,
+            0.88
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.p1",
+      "exam": "neet",
+      "subject": "physics",
+      "chapter": "work-power-and-energy",
+      "body": "The kinetic energy of a body of mass $2\\ \\text{kg}$ moving with a speed of $3\\ \\text{m s}^{-1}$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$K = \\tfrac{1}{2}mv^2 = \\tfrac{1}{2}(2)(3)^2 = 9\\ \\text{J}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$3\\ \\text{J}$"
+        },
+        {
+          "label": "B",
+          "body": "$6\\ \\text{J}$"
+        },
+        {
+          "label": "C",
+          "body": "$9\\ \\text{J}$"
+        },
+        {
+          "label": "D",
+          "body": "$18\\ \\text{J}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.p2",
+      "exam": "neet",
+      "subject": "physics",
+      "chapter": "gravitation",
+      "body": "**Assertion (A):** The acceleration due to gravity decreases as we move upward from the surface of the Earth.\n\n**Reason (R):** Outside the Earth, $g = \\dfrac{GM}{r^2}$, which decreases as the distance $r$ from the centre increases.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Both statements are true, and the inverse-square dependence of $g$ on $r$ (R) is exactly why $g$ falls with altitude (A). Hence option A.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 2,
+          "section": "physics"
+        }
+      ],
+      "type": "assertion_reason",
+      "options": [
+        {
+          "label": "A",
+          "body": "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A."
+        },
+        {
+          "label": "B",
+          "body": "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A."
+        },
+        {
+          "label": "C",
+          "body": "Assertion (A) is true but Reason (R) is false."
+        },
+        {
+          "label": "D",
+          "body": "Assertion (A) is false but Reason (R) is true."
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.p3",
+      "exam": "neet",
+      "subject": "physics",
+      "chapter": "dual-nature-of-radiation",
+      "body": "The energy of a photon of wavelength $620\\ \\text{nm}$ is approximately (take $hc = 1240\\ \\text{eV nm}$)",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$E = \\dfrac{hc}{\\lambda} = \\dfrac{1240\\ \\text{eV nm}}{620\\ \\text{nm}} = 2\\ \\text{eV}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 3,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$1\\ \\text{eV}$"
+        },
+        {
+          "label": "B",
+          "body": "$2\\ \\text{eV}$"
+        },
+        {
+          "label": "C",
+          "body": "$3\\ \\text{eV}$"
+        },
+        {
+          "label": "D",
+          "body": "$4\\ \\text{eV}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.c1",
+      "exam": "neet",
+      "subject": "chemistry",
+      "chapter": "structure-of-atom",
+      "body": "The total number of orbitals in the shell with principal quantum number $n = 3$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "The number of orbitals in a shell is $n^2 = 3^2 = 9$ (one $3s$, three $3p$ and five $3d$).",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 4,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "3"
+        },
+        {
+          "label": "B",
+          "body": "6"
+        },
+        {
+          "label": "C",
+          "body": "9"
+        },
+        {
+          "label": "D",
+          "body": "18"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.c2",
+      "exam": "neet",
+      "subject": "chemistry",
+      "chapter": "chemical-equilibrium",
+      "body": "For the equilibrium\n$$\\ce{N2(g) + 3H2(g) <=> 2NH3(g)}$$\n$K_p$ and $K_c$ are related by $K_p = K_c(RT)^{\\Delta n}$. The value of $\\Delta n$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\Delta n = n_{\\text{gaseous products}} - n_{\\text{gaseous reactants}} = 2 - (1 + 3) = -2$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 5,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "−2"
+        },
+        {
+          "label": "B",
+          "body": "2"
+        },
+        {
+          "label": "C",
+          "body": "0"
+        },
+        {
+          "label": "D",
+          "body": "−1"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.c3",
+      "exam": "neet",
+      "subject": "chemistry",
+      "chapter": "chemical-bonding-and-molecular-structure",
+      "body": "Match the molecules in List-I with their shapes in List-II.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "| Molecule | Bond pairs | Lone pairs | Shape |\n|---|---|---|---|\n| $\\ce{XeF4}$ | 4 | 2 | Square planar |\n| $\\ce{SF4}$ | 4 | 1 | See-saw |\n| $\\ce{ClF3}$ | 3 | 2 | T-shaped |\n| $\\ce{XeF2}$ | 2 | 3 | Linear |",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 6,
+          "section": "chemistry"
+        }
+      ],
+      "type": "matrix_match",
+      "matrix": {
+        "left_title": "List-I",
+        "right_title": "List-II",
+        "left": [
+          {
+            "key": "P",
+            "body": "$\\ce{XeF4}$"
+          },
+          {
+            "key": "Q",
+            "body": "$\\ce{SF4}$"
+          },
+          {
+            "key": "R",
+            "body": "$\\ce{ClF3}$"
+          },
+          {
+            "key": "S",
+            "body": "$\\ce{XeF2}$"
+          }
+        ],
+        "right": [
+          {
+            "key": "1",
+            "body": "Linear"
+          },
+          {
+            "key": "2",
+            "body": "T-shaped"
+          },
+          {
+            "key": "3",
+            "body": "See-saw"
+          },
+          {
+            "key": "4",
+            "body": "Square planar"
+          }
+        ]
+      },
+      "options": [
+        {
+          "label": "A",
+          "body": "P-4, Q-3, R-2, S-1"
+        },
+        {
+          "label": "B",
+          "body": "P-3, Q-4, R-1, S-2"
+        },
+        {
+          "label": "C",
+          "body": "P-4, Q-2, R-3, S-1"
+        },
+        {
+          "label": "D",
+          "body": "P-1, Q-3, R-2, S-4"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b1",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "cell-the-unit-of-life",
+      "body": "Which cell component is the site of protein synthesis?",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Ribosomes translate messenger RNA into polypeptide chains, so they are the site of protein synthesis. Lysosomes digest material, the Golgi apparatus packages proteins, and centrioles organise the spindle.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 7,
+          "section": "biology"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "Lysosome"
+        },
+        {
+          "label": "B",
+          "body": "Ribosome"
+        },
+        {
+          "label": "C",
+          "body": "Golgi apparatus"
+        },
+        {
+          "label": "D",
+          "body": "Centriole"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b2",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "cell-the-unit-of-life",
+      "body": "**Assertion (A):** Mitochondria are called the powerhouses of the cell.\n\n**Reason (R):** Mitochondria contain their own circular DNA.",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Both statements are true. Mitochondria are called powerhouses because aerobic respiration in them produces most of the cell's ATP; possessing their own DNA does not explain this role. Hence option B.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 8,
+          "section": "biology"
+        }
+      ],
+      "type": "assertion_reason",
+      "options": [
+        {
+          "label": "A",
+          "body": "Both Assertion (A) and Reason (R) are true and R is the correct explanation of A."
+        },
+        {
+          "label": "B",
+          "body": "Both Assertion (A) and Reason (R) are true but R is not the correct explanation of A."
+        },
+        {
+          "label": "C",
+          "body": "Assertion (A) is true but Reason (R) is false."
+        },
+        {
+          "label": "D",
+          "body": "Assertion (A) is false but Reason (R) is true."
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b3",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "molecular-basis-of-inheritance",
+      "body": "In a double-stranded DNA molecule, adenine makes up 20% of the bases. The percentage of guanine is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "By Chargaff's rule $A = T = 20\\%$, so $G + C = 60\\%$ and, since $G = C$, $G = 30\\%$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 9,
+          "section": "biology"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "20%"
+        },
+        {
+          "label": "B",
+          "body": "30%"
+        },
+        {
+          "label": "C",
+          "body": "40%"
+        },
+        {
+          "label": "D",
+          "body": "60%"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b4",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "human-health-and-diseases",
+      "body": "The vector that transmits the malarial parasite to humans is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "*Plasmodium* is transmitted to humans through the bite of an infected female *Anopheles* mosquito.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 10,
+          "section": "biology"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "female *Anopheles* mosquito"
+        },
+        {
+          "label": "B",
+          "body": "female *Culex* mosquito"
+        },
+        {
+          "label": "C",
+          "body": "female *Aedes* mosquito"
+        },
+        {
+          "label": "D",
+          "body": "housefly"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b5",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "photosynthesis-in-higher-plants",
+      "body": "In $\\ce{C4}$ plants, the primary acceptor of $\\ce{CO2}$ in mesophyll cells is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "In the Hatch–Slack pathway, PEP in mesophyll cells fixes $\\ce{CO2}$ (via PEP carboxylase) to form the 4-carbon OAA. RuBP is the acceptor in the Calvin cycle, which occurs in bundle-sheath cells.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 11,
+          "section": "biology"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "phosphoenolpyruvate (PEP)"
+        },
+        {
+          "label": "B",
+          "body": "ribulose-1,5-bisphosphate (RuBP)"
+        },
+        {
+          "label": "C",
+          "body": "oxaloacetic acid (OAA)"
+        },
+        {
+          "label": "D",
+          "body": "3-phosphoglyceric acid (PGA)"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.neet.b6",
+      "exam": "neet",
+      "subject": "biology",
+      "chapter": "ecosystem",
+      "body": "The pyramid of energy below has four trophic levels. If the producers fix $10{,}000\\ \\text{J}$ and the 10 per cent law applies, the energy available at the fourth trophic level ($T_4$) is\n\n![Pyramid of energy with producers at the base holding 10,000 joules, followed by primary consumers, secondary consumers and a fourth trophic level at the apex](diagram:energy-pyramid)\n\n| Trophic level | Energy |\n|---|---|\n| $T_1$ (producers) | $10{,}000\\ \\text{J}$ |\n| $T_2$ | ? |\n| $T_3$ | ? |\n| $T_4$ | ? |",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Only about 10% passes to each higher level: $10{,}000 \\to 1000 \\to 100 \\to 10\\ \\text{J}$ at $T_4$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.neet.1",
+          "number": 12,
+          "section": "biology"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$1000\\ \\text{J}$"
+        },
+        {
+          "label": "B",
+          "body": "$100\\ \\text{J}$"
+        },
+        {
+          "label": "C",
+          "body": "$10\\ \\text{J}$"
+        },
+        {
+          "label": "D",
+          "body": "$1\\ \\text{J}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.mht.p1",
+      "exam": "mht-cet",
+      "subject": "physics",
+      "chapter": "magnetic-effects-of-current",
+      "body": "The magnitude of the magnetic field at the centre of a circular loop of radius $r$ carrying a steady current $I$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "From the Biot–Savart law, every element of the loop is at distance $r$ and perpendicular to the radius, giving $B = \\dfrac{\\mu_0 I}{4\\pi r^2}(2\\pi r) = \\dfrac{\\mu_0 I}{2r}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.mht-cet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\dfrac{\\mu_0 I}{2\\pi r}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\dfrac{\\mu_0 I}{2r}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\dfrac{\\mu_0 I}{4r}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\dfrac{\\mu_0 I r}{2}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.mht.c1",
+      "exam": "mht-cet",
+      "subject": "chemistry",
+      "chapter": "some-basic-concepts-of-chemistry",
+      "body": "The molar mass of $\\ce{H2SO4}$ is (H = 1, S = 32, O = 16)",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$2(1) + 32 + 4(16) = 98\\ \\text{g mol}^{-1}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.mht-cet.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$49\\ \\text{g mol}^{-1}$"
+        },
+        {
+          "label": "B",
+          "body": "$96\\ \\text{g mol}^{-1}$"
+        },
+        {
+          "label": "C",
+          "body": "$98\\ \\text{g mol}^{-1}$"
+        },
+        {
+          "label": "D",
+          "body": "$100\\ \\text{g mol}^{-1}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.mht.m1",
+      "exam": "mht-cet",
+      "subject": "mathematics",
+      "chapter": "trigonometric-ratios-and-identities",
+      "body": "The value of $\\sin 30^\\circ \\cos 60^\\circ + \\cos 30^\\circ \\sin 60^\\circ$ is",
+      "difficulty": "medium",
+      "marks": 2,
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "This is $\\sin(30^\\circ + 60^\\circ) = \\sin 90^\\circ = 1$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.mht-cet.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "0"
+        },
+        {
+          "label": "B",
+          "body": "$\\tfrac{1}{2}$"
+        },
+        {
+          "label": "C",
+          "body": "1"
+        },
+        {
+          "label": "D",
+          "body": "$\\tfrac{\\sqrt{3}}{2}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.bitsat.p1",
+      "exam": "bitsat",
+      "subject": "physics",
+      "chapter": "gravitation",
+      "body": "The escape speed of a body from the surface of a planet depends on",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$v_e = \\sqrt{\\dfrac{2GM}{R}}$ depends on the planet's mass $M$ and radius $R$, not on the body's mass or the direction of projection.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.bitsat.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "the mass of the body only"
+        },
+        {
+          "label": "B",
+          "body": "the mass and radius of the planet"
+        },
+        {
+          "label": "C",
+          "body": "the direction of projection"
+        },
+        {
+          "label": "D",
+          "body": "the mass of the body and the radius of the planet"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.bitsat.c1",
+      "exam": "bitsat",
+      "subject": "chemistry",
+      "chapter": "periodic-table-and-periodicity",
+      "body": "Which element has the highest electronegativity on the Pauling scale?",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Fluorine has the highest Pauling electronegativity (about 4.0) because of its small size and high effective nuclear charge.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.bitsat.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "Oxygen"
+        },
+        {
+          "label": "B",
+          "body": "Chlorine"
+        },
+        {
+          "label": "C",
+          "body": "Fluorine"
+        },
+        {
+          "label": "D",
+          "body": "Nitrogen"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.bitsat.m1",
+      "exam": "bitsat",
+      "subject": "mathematics",
+      "chapter": "binomial-theorem",
+      "body": "The coefficient of $x^2$ in the expansion of $(1 + x)^5$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "The general term is $\\binom{5}{r}x^r$; for $r = 2$, $\\binom{5}{2} = 10$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.bitsat.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "5"
+        },
+        {
+          "label": "B",
+          "body": "10"
+        },
+        {
+          "label": "C",
+          "body": "15"
+        },
+        {
+          "label": "D",
+          "body": "20"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.bitsat.e1",
+      "exam": "bitsat",
+      "subject": "english-proficiency",
+      "chapter": "vocabulary",
+      "body": "Choose the word closest in meaning to **ABUNDANT**.",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "*Abundant* means existing in large quantities — *plentiful*. *Scarce* is its antonym.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.bitsat.1",
+          "number": 4,
+          "section": "english-proficiency"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "Scarce"
+        },
+        {
+          "label": "B",
+          "body": "Plentiful"
+        },
+        {
+          "label": "C",
+          "body": "Hidden"
+        },
+        {
+          "label": "D",
+          "body": "Fragile"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.bitsat.l1",
+      "exam": "bitsat",
+      "subject": "logical-reasoning",
+      "chapter": "verbal-reasoning",
+      "body": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "The terms are $n(n+1)$ for $n = 1, 2, \\ldots$: $1\\cdot2, 2\\cdot3, 3\\cdot4, 4\\cdot5, 5\\cdot6$. The next is $6 \\cdot 7 = 42$ (differences $4, 6, 8, 10, 12$).",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.bitsat.1",
+          "number": 5,
+          "section": "logical-reasoning"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "36"
+        },
+        {
+          "label": "B",
+          "body": "40"
+        },
+        {
+          "label": "C",
+          "body": "42"
+        },
+        {
+          "label": "D",
+          "body": "48"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.comedk.p1",
+      "exam": "comedk",
+      "subject": "physics",
+      "chapter": "electromagnetic-induction",
+      "body": "The magnetic flux through a coil decreases uniformly from $0.5\\ \\text{Wb}$ to $0.1\\ \\text{Wb}$ in $0.2\\ \\text{s}$. The magnitude of the induced emf is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$|\\varepsilon| = \\left|\\dfrac{\\Delta\\Phi}{\\Delta t}\\right| = \\dfrac{0.5 - 0.1}{0.2} = 2\\ \\text{V}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.comedk.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$0.4\\ \\text{V}$"
+        },
+        {
+          "label": "B",
+          "body": "$0.8\\ \\text{V}$"
+        },
+        {
+          "label": "C",
+          "body": "$2\\ \\text{V}$"
+        },
+        {
+          "label": "D",
+          "body": "$3\\ \\text{V}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.comedk.c1",
+      "exam": "comedk",
+      "subject": "chemistry",
+      "chapter": "thermodynamics",
+      "body": "A process at constant temperature and pressure is spontaneous when",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "At constant $T$ and $p$, the criterion for spontaneity is a decrease in Gibbs energy: $\\Delta G = \\Delta H - T\\Delta S < 0$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.comedk.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\Delta G > 0$"
+        },
+        {
+          "label": "B",
+          "body": "$\\Delta G < 0$"
+        },
+        {
+          "label": "C",
+          "body": "$\\Delta H > 0$ always"
+        },
+        {
+          "label": "D",
+          "body": "$\\Delta S < 0$ always"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.comedk.m1",
+      "exam": "comedk",
+      "subject": "mathematics",
+      "chapter": "limits-continuity-and-differentiability",
+      "body": "$\\displaystyle\\lim_{x \\to 0} \\frac{\\sin 3x}{x}$ equals",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\dfrac{\\sin 3x}{x} = 3\\cdot\\dfrac{\\sin 3x}{3x} \\to 3 \\cdot 1 = 3$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.comedk.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "0"
+        },
+        {
+          "label": "B",
+          "body": "1"
+        },
+        {
+          "label": "C",
+          "body": "3"
+        },
+        {
+          "label": "D",
+          "body": "$\\tfrac{1}{3}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.wbjee.p1",
+      "exam": "wbjee",
+      "subject": "physics",
+      "chapter": "wave-optics",
+      "body": "In Young's double-slit experiment, the wavelength of light is $600\\ \\text{nm}$, the slit separation is $1\\ \\text{mm}$ and the screen is $1\\ \\text{m}$ away. The fringe width is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\beta = \\dfrac{\\lambda D}{d} = \\dfrac{600\\times10^{-9} \\times 1}{1\\times10^{-3}} = 6\\times10^{-4}\\ \\text{m} = 0.6\\ \\text{mm}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.wbjee.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$0.06\\ \\text{mm}$"
+        },
+        {
+          "label": "B",
+          "body": "$0.6\\ \\text{mm}$"
+        },
+        {
+          "label": "C",
+          "body": "$6\\ \\text{mm}$"
+        },
+        {
+          "label": "D",
+          "body": "$0.3\\ \\text{mm}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.wbjee.c1",
+      "exam": "wbjee",
+      "subject": "chemistry",
+      "chapter": "isomerism",
+      "body": "The number of structural isomers of $\\ce{C4H10}$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "n-Butane and isobutane (2-methylpropane): two structural isomers.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.wbjee.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "1"
+        },
+        {
+          "label": "B",
+          "body": "2"
+        },
+        {
+          "label": "C",
+          "body": "3"
+        },
+        {
+          "label": "D",
+          "body": "4"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.wbjee.m1",
+      "exam": "wbjee",
+      "subject": "mathematics",
+      "chapter": "circle",
+      "body": "The radius of the circle $x^2 + y^2 - 4x - 6y - 12 = 0$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Centre $(2, 3)$; $r = \\sqrt{2^2 + 3^2 + 12} = \\sqrt{25} = 5$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.wbjee.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "3"
+        },
+        {
+          "label": "B",
+          "body": "4"
+        },
+        {
+          "label": "C",
+          "body": "5"
+        },
+        {
+          "label": "D",
+          "body": "6"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.kcet.p1",
+      "exam": "kcet",
+      "subject": "physics",
+      "chapter": "alternating-current",
+      "body": "The peak value of a sinusoidal alternating voltage is $10\\sqrt{2}\\ \\text{V}$. Its rms value is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$V_{\\text{rms}} = \\dfrac{V_0}{\\sqrt{2}} = \\dfrac{10\\sqrt{2}}{\\sqrt{2}} = 10\\ \\text{V}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.kcet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$5\\ \\text{V}$"
+        },
+        {
+          "label": "B",
+          "body": "$10\\ \\text{V}$"
+        },
+        {
+          "label": "C",
+          "body": "$10\\sqrt{2}\\ \\text{V}$"
+        },
+        {
+          "label": "D",
+          "body": "$20\\ \\text{V}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.kcet.c1",
+      "exam": "kcet",
+      "subject": "chemistry",
+      "chapter": "biomolecules",
+      "body": "Glucose is classified as",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Glucose, $\\ce{C6H12O6}$, has six carbon atoms and an aldehyde group: an aldohexose. Fructose is a ketohexose.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.kcet.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "an aldopentose"
+        },
+        {
+          "label": "B",
+          "body": "an aldohexose"
+        },
+        {
+          "label": "C",
+          "body": "a ketohexose"
+        },
+        {
+          "label": "D",
+          "body": "a ketopentose"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.kcet.m1",
+      "exam": "kcet",
+      "subject": "mathematics",
+      "chapter": "sets-and-relations",
+      "body": "If $n(A) = 20$, $n(B) = 15$ and $n(A \\cap B) = 5$, then $n(A \\cup B)$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$n(A\\cup B) = n(A) + n(B) - n(A\\cap B) = 20 + 15 - 5 = 30$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.kcet.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "25"
+        },
+        {
+          "label": "B",
+          "body": "30"
+        },
+        {
+          "label": "C",
+          "body": "35"
+        },
+        {
+          "label": "D",
+          "body": "40"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.viteee.p1",
+      "exam": "viteee",
+      "subject": "physics",
+      "chapter": "electronic-devices",
+      "body": "When a p-n junction diode is forward biased, the width of its depletion region",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Forward bias opposes the built-in potential, pushing majority carriers towards the junction and narrowing the depletion region.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.viteee.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "increases"
+        },
+        {
+          "label": "B",
+          "body": "decreases"
+        },
+        {
+          "label": "C",
+          "body": "remains unchanged"
+        },
+        {
+          "label": "D",
+          "body": "first increases then decreases"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.viteee.c1",
+      "exam": "viteee",
+      "subject": "chemistry",
+      "chapter": "d-and-f-block-elements",
+      "body": "The oxidation state of manganese in $\\ce{KMnO4}$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$+1 + x + 4(-2) = 0 \\Rightarrow x = +7$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.viteee.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "+4"
+        },
+        {
+          "label": "B",
+          "body": "+5"
+        },
+        {
+          "label": "C",
+          "body": "+6"
+        },
+        {
+          "label": "D",
+          "body": "+7"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "D"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.viteee.m1",
+      "exam": "viteee",
+      "subject": "mathematics",
+      "chapter": "straight-lines-and-pair-of-straight-lines",
+      "body": "The slope of the line passing through the points $(1, 2)$ and $(3, 8)$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$m = \\dfrac{8 - 2}{3 - 1} = 3$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.viteee.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "2"
+        },
+        {
+          "label": "B",
+          "body": "3"
+        },
+        {
+          "label": "C",
+          "body": "4"
+        },
+        {
+          "label": "D",
+          "body": "6"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.viteee.e1",
+      "exam": "viteee",
+      "subject": "english",
+      "chapter": "grammar",
+      "body": "Choose the correct word to fill in the blank: \"Neither of the two boys ______ present yesterday.\"",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "*Neither* is singular and the sentence is in the past tense, so the verb is *was*.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.viteee.1",
+          "number": 4,
+          "section": "english"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "were"
+        },
+        {
+          "label": "B",
+          "body": "was"
+        },
+        {
+          "label": "C",
+          "body": "are"
+        },
+        {
+          "label": "D",
+          "body": "have been"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.viteee.a1",
+      "exam": "viteee",
+      "subject": "aptitude",
+      "chapter": "quantitative-aptitude",
+      "body": "What is $20\\%$ of $250$?",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$0.2 \\times 250 = 50$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.viteee.1",
+          "number": 5,
+          "section": "aptitude"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "25"
+        },
+        {
+          "label": "B",
+          "body": "40"
+        },
+        {
+          "label": "C",
+          "body": "50"
+        },
+        {
+          "label": "D",
+          "body": "60"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ap.p1",
+      "exam": "ap-eapcet",
+      "subject": "physics",
+      "chapter": "center-of-mass-and-collision",
+      "body": "Particles of mass $1\\ \\text{kg}$ and $3\\ \\text{kg}$ are placed at $x = 0$ and $x = 4\\ \\text{m}$ respectively. The position of their centre of mass is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$x_{cm} = \\dfrac{1(0) + 3(4)}{1 + 3} = 3\\ \\text{m}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ap-eapcet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$x = 1\\ \\text{m}$"
+        },
+        {
+          "label": "B",
+          "body": "$x = 2\\ \\text{m}$"
+        },
+        {
+          "label": "C",
+          "body": "$x = 3\\ \\text{m}$"
+        },
+        {
+          "label": "D",
+          "body": "$x = 4\\ \\text{m}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ap.c1",
+      "exam": "ap-eapcet",
+      "subject": "chemistry",
+      "chapter": "redox-reactions",
+      "body": "The oxidation state of chromium in $\\ce{K2Cr2O7}$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$2(+1) + 2x + 7(-2) = 0 \\Rightarrow 2x = 12 \\Rightarrow x = +6$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ap-eapcet.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "+3"
+        },
+        {
+          "label": "B",
+          "body": "+4"
+        },
+        {
+          "label": "C",
+          "body": "+6"
+        },
+        {
+          "label": "D",
+          "body": "+7"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ap.m1",
+      "exam": "ap-eapcet",
+      "subject": "mathematics",
+      "chapter": "permutations-and-combinations",
+      "body": "The number of distinct arrangements of the letters of the word LEVEL is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "LEVEL has 5 letters with L and E each repeated twice: $\\dfrac{5!}{2!\\,2!} = \\dfrac{120}{4} = 30$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ap-eapcet.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "20"
+        },
+        {
+          "label": "B",
+          "body": "30"
+        },
+        {
+          "label": "C",
+          "body": "60"
+        },
+        {
+          "label": "D",
+          "body": "120"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ts.p1",
+      "exam": "ts-eamcet",
+      "subject": "physics",
+      "chapter": "fluid-mechanics",
+      "body": "The gauge pressure at a depth of $10\\ \\text{m}$ in water (density $1000\\ \\text{kg m}^{-3}$, $g = 10\\ \\text{m s}^{-2}$) is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$p = \\rho g h = 1000 \\times 10 \\times 10 = 10^5\\ \\text{Pa}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ts-eamcet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$10^3\\ \\text{Pa}$"
+        },
+        {
+          "label": "B",
+          "body": "$10^4\\ \\text{Pa}$"
+        },
+        {
+          "label": "C",
+          "body": "$10^5\\ \\text{Pa}$"
+        },
+        {
+          "label": "D",
+          "body": "$10^6\\ \\text{Pa}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ts.c1",
+      "exam": "ts-eamcet",
+      "subject": "chemistry",
+      "chapter": "alcohols-phenols-and-ethers",
+      "body": "With the Lucas reagent (anhydrous ZnCl₂ in concentrated HCl), turbidity appears immediately at room temperature for",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Tertiary alcohols form stable tertiary carbocations, so the insoluble alkyl chloride separates almost immediately. Secondary alcohols take a few minutes; primary alcohols do not react appreciably at room temperature.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ts-eamcet.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "a primary alcohol"
+        },
+        {
+          "label": "B",
+          "body": "a secondary alcohol"
+        },
+        {
+          "label": "C",
+          "body": "a tertiary alcohol"
+        },
+        {
+          "label": "D",
+          "body": "methanol"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ts.m1",
+      "exam": "ts-eamcet",
+      "subject": "mathematics",
+      "chapter": "application-of-derivatives",
+      "body": "The slope of the tangent to the curve $y = x^3$ at $x = 2$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\dfrac{dy}{dx} = 3x^2 = 3(4) = 12$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ts-eamcet.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "4"
+        },
+        {
+          "label": "B",
+          "body": "8"
+        },
+        {
+          "label": "C",
+          "body": "12"
+        },
+        {
+          "label": "D",
+          "body": "6"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.keam.p1",
+      "exam": "keam",
+      "subject": "physics",
+      "chapter": "rotational-motion",
+      "body": "A force of $5\\ \\text{N}$ acts perpendicular to a spanner at a distance of $2\\ \\text{m}$ from the axis. The magnitude of the torque is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\tau = rF\\sin 90^\\circ = 2 \\times 5 = 10\\ \\text{N m}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.keam.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$2.5\\ \\text{N m}$"
+        },
+        {
+          "label": "B",
+          "body": "$7\\ \\text{N m}$"
+        },
+        {
+          "label": "C",
+          "body": "$10\\ \\text{N m}$"
+        },
+        {
+          "label": "D",
+          "body": "$20\\ \\text{N m}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.keam.c1",
+      "exam": "keam",
+      "subject": "chemistry",
+      "chapter": "haloalkanes-and-haloarenes",
+      "body": "An $S_N2$ reaction at a chiral carbon proceeds with",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "In $S_N2$ the nucleophile attacks from the side opposite the leaving group in a single step, giving Walden inversion of configuration.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.keam.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "retention of configuration"
+        },
+        {
+          "label": "B",
+          "body": "inversion of configuration"
+        },
+        {
+          "label": "C",
+          "body": "complete racemisation"
+        },
+        {
+          "label": "D",
+          "body": "no change in the carbon skeleton or configuration"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.keam.m1",
+      "exam": "keam",
+      "subject": "mathematics",
+      "chapter": "ellipse",
+      "body": "The eccentricity of the ellipse $\\dfrac{x^2}{25} + \\dfrac{y^2}{16} = 1$ is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$a^2 = 25$, $b^2 = 16$: $e = \\sqrt{1 - \\dfrac{b^2}{a^2}} = \\sqrt{\\dfrac{9}{25}} = \\dfrac{3}{5}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.keam.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\tfrac{3}{5}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\tfrac{4}{5}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\tfrac{9}{25}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\tfrac{5}{3}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "A"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.gujcet.p1",
+      "exam": "gujcet",
+      "subject": "physics",
+      "chapter": "capacitor",
+      "body": "Capacitors of $2\\ \\mu\\text{F}$ and $3\\ \\mu\\text{F}$ are connected in parallel. The equivalent capacitance is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "In parallel, capacitances add: $C = 2 + 3 = 5\\ \\mu\\text{F}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.gujcet.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$1.2\\ \\mu\\text{F}$"
+        },
+        {
+          "label": "B",
+          "body": "$5\\ \\mu\\text{F}$"
+        },
+        {
+          "label": "C",
+          "body": "$6\\ \\mu\\text{F}$"
+        },
+        {
+          "label": "D",
+          "body": "$1\\ \\mu\\text{F}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.gujcet.c1",
+      "exam": "gujcet",
+      "subject": "chemistry",
+      "chapter": "structure-of-atom",
+      "body": "The maximum number of electrons that can be accommodated in the shell with $n = 2$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Maximum electrons $= 2n^2 = 2(2)^2 = 8$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.gujcet.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "2"
+        },
+        {
+          "label": "B",
+          "body": "4"
+        },
+        {
+          "label": "C",
+          "body": "8"
+        },
+        {
+          "label": "D",
+          "body": "18"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "C"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.gujcet.m1",
+      "exam": "gujcet",
+      "subject": "mathematics",
+      "chapter": "statistics",
+      "body": "The arithmetic mean of 2, 4, 6, 8 and 10 is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "$\\dfrac{2 + 4 + 6 + 8 + 10}{5} = \\dfrac{30}{5} = 6$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.gujcet.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "5"
+        },
+        {
+          "label": "B",
+          "body": "6"
+        },
+        {
+          "label": "C",
+          "body": "7"
+        },
+        {
+          "label": "D",
+          "body": "8"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ojee.p1",
+      "exam": "ojee",
+      "subject": "physics",
+      "chapter": "electromagnetic-waves",
+      "body": "The speed of electromagnetic waves in vacuum is given by",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "Maxwell's equations give $c = 1/\\sqrt{\\mu_0\\varepsilon_0} \\approx 3 \\times 10^8\\ \\text{m s}^{-1}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ojee.1",
+          "number": 1,
+          "section": "physics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\sqrt{\\mu_0 \\varepsilon_0}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\dfrac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\dfrac{\\mu_0}{\\varepsilon_0}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\mu_0 \\varepsilon_0$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ojee.c1",
+      "exam": "ojee",
+      "subject": "chemistry",
+      "chapter": "chemical-kinetics",
+      "body": "The SI unit of the rate constant of a first-order reaction is",
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "For rate $= k[A]$, $k = \\dfrac{\\text{mol L}^{-1}\\text{s}^{-1}}{\\text{mol L}^{-1}} = \\text{s}^{-1}$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ojee.1",
+          "number": 2,
+          "section": "chemistry"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\text{mol L}^{-1}\\,\\text{s}^{-1}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\text{s}^{-1}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\text{L mol}^{-1}\\,\\text{s}^{-1}$"
+        },
+        {
+          "label": "D",
+          "body": "dimensionless"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    },
+    {
+      "ref": "sample.ojee.m1",
+      "exam": "ojee",
+      "subject": "mathematics",
+      "chapter": "inverse-trigonometric-functions",
+      "body": "The principal value of $\\sin^{-1}\\!\\left(\\tfrac{1}{2}\\right)$ is",
+      "difficulty": "easy",
+      "is_pyq": false,
+      "status": "published",
+      "verification_status": "unverified",
+      "solutions": [
+        {
+          "kind": "editorial",
+          "body": "The principal range of $\\sin^{-1}$ is $[-\\pi/2, \\pi/2]$, and $\\sin(\\pi/6) = 1/2$.",
+          "is_verified": false,
+          "author_name": "PrepLedger editorial (sample)"
+        }
+      ],
+      "papers": [
+        {
+          "paper": "sample.paper.ojee.1",
+          "number": 3,
+          "section": "mathematics"
+        }
+      ],
+      "type": "mcq_single",
+      "options": [
+        {
+          "label": "A",
+          "body": "$\\dfrac{\\pi}{3}$"
+        },
+        {
+          "label": "B",
+          "body": "$\\dfrac{\\pi}{6}$"
+        },
+        {
+          "label": "C",
+          "body": "$\\dfrac{5\\pi}{6}$"
+        },
+        {
+          "label": "D",
+          "body": "$\\dfrac{\\pi}{4}$"
+        }
+      ],
+      "answer": {
+        "value": {
+          "options": [
+            "B"
+          ]
+        },
+        "status": "final",
+        "source": "editorial"
+      }
+    }
+  ]
+}

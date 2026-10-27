@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" width="360" height="200" font-family="Georgia, serif" font-size="14">
+  <title>Block on a smooth inclined plane at 30 degrees</title>
+  <polygon points="20,180 330,180 330,0" fill="#f2f2ee" stroke="#222" stroke-width="2"/>
+  <g transform="translate(205,95) rotate(-30)">
+    <rect x="-28" y="-40" width="56" height="40" fill="#fff" stroke="#222" stroke-width="2"/>
+    <text x="-16" y="-14">2 kg</text>
+  </g>
+  <path d="M 80 180 A 60 60 0 0 0 72 150" fill="none" stroke="#222"/>
+  <text x="86" y="170">30°</text>
+  <text x="250" y="196">smooth surface</text>
+</svg>

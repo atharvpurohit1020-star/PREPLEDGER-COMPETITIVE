@@ -1,0 +1,88 @@
+{
+  "format_version": 1,
+  "source": {
+    "source_type": "licensed_dataset",
+    "title": "Example Publisher — JEE Physics question book (2025 edition)",
+    "publisher": "Example Publisher",
+    "license": "Licensed to the operator for online publication",
+    "rights_holder": "Example Publisher",
+    "permission_note": "Written permission from the rights holder dated 2026-10-26, stored in the contracts folder.",
+    "retrieved_at": "2026-10-26"
+  },
+  "papers": [
+    {
+      "ref": "jee-adv-2024-p1",
+      "exam": "jee-advanced",
+      "title": "JEE Advanced 2024 Paper 1",
+      "kind": "past_paper",
+      "year": 2024,
+      "session": "Paper 1",
+      "exam_date": "2024-05-26",
+      "paper_number": 1,
+      "duration_minutes": 180,
+      "sections": [
+        { "key": "physics", "name": "Physics", "subject_slug": "physics" },
+        { "key": "chemistry", "name": "Chemistry", "subject_slug": "chemistry" },
+        { "key": "mathematics", "name": "Mathematics", "subject_slug": "mathematics" }
+      ],
+      "availability": "partial",
+      "verification_status": "unverified"
+    }
+  ],
+  "diagrams": [
+    {
+      "ref": "example-diagram-1",
+      "url": "/assets/diagrams/incline-30.svg",
+      "alt_text": "Describe everything a student needs from the diagram, in words.",
+      "caption": "Optional caption",
+      "width": 360,
+      "height": 200,
+      "license": "Same as source"
+    }
+  ],
+  "passages": [
+    { "ref": "example-passage-1", "title": "Paragraph for Questions 1 and 2", "body": "Shared passage text with $math$." }
+  ],
+  "questions": [
+    {
+      "ref": "book1-ch5-q12",
+      "exam": "jee-main",
+      "subject": "physics",
+      "chapter": "laws-of-motion",
+      "topics": ["friction"],
+      "type": "mcq_single",
+      "body": "A block of mass $m$ ... ![alt text](diagram:example-diagram-1)",
+      "options": [
+        { "label": "A", "body": "$\\mu g$" },
+        { "label": "B", "body": "$2\\mu g$" },
+        { "label": "C", "body": "$g$" },
+        { "label": "D", "body": "zero" }
+      ],
+      "difficulty": "medium",
+      "is_pyq": false,
+      "status": "in_review",
+      "verification_status": "unverified",
+      "source_ref": "Chapter 5, Q12, p. 143",
+      "answer": { "value": { "options": ["A"] }, "status": "final", "source": "editorial" },
+      "solutions": [
+        { "kind": "editorial", "body": "Worked solution with $$\\text{display math}$$", "is_verified": false, "author_name": "Editor name" }
+      ]
+    },
+    {
+      "ref": "jee-adv-2024-p1-q7",
+      "exam": "jee-advanced",
+      "subject": "physics",
+      "chapter": "simple-harmonic-motion",
+      "type": "numerical",
+      "body": "Numerical question text ...",
+      "is_pyq": true,
+      "status": "in_review",
+      "answer": { "value": { "range": [1.2, 1.4] }, "status": "final", "source": "official", "note": "Official final key" },
+      "answer_history": [
+        { "value": { "range": [1.2, 1.3] }, "status": "provisional", "source": "official", "effective_at": "2024-06-02" }
+      ],
+      "solutions": [],
+      "papers": [{ "paper": "jee-adv-2024-p1", "number": 7, "section": "physics" }]
+    }
+  ]
+}

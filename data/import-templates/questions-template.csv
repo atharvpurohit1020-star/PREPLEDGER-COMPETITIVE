@@ -1,0 +1,4 @@
+ref,exam,subject,chapter,type,body,option_a,option_b,option_c,option_d,answer,answer_status,answer_source,solution,solution_kind,marks,negative_marks,difficulty,is_pyq,status,topics,source_ref
+book1-ch2-q4,jee-main,mathematics,complex-numbers,mcq_single,"The modulus of $3 + 4i$ is",3,4,5,7,C,final,editorial,"$|3+4i| = \sqrt{9+16} = 5$",editorial,,,easy,false,in_review,,"Chapter 2, Q4"
+book1-ch9-q1,jee-main,chemistry,solutions,numerical,"Molality of 0.5 mol solute in 250 g water is ______.",,,,,2,final,editorial,"$0.5/0.25 = 2$",editorial,,,easy,false,in_review,,"Chapter 9, Q1"
+book1-ch3-q8,jee-advanced,physics,electrostatics,mcq_multi,"Which statements are correct? ...",Statement A,Statement B,Statement C,Statement D,A;C,final,editorial,,,,,medium,false,in_review,,"Chapter 3, Q8"
