@@ -1,6 +1,6 @@
 # Content coverage report
 
-Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` in the app.
+Generated 2026-10-27T06:41:13.104Z from the database. Live version: `/coverage` in the app.
 
 > Counts describe what has been imported. Zero means "not imported yet", not "never examined".
 
@@ -8,7 +8,7 @@ Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` 
 
 | Exam | On reference | Published Q | PYQ | Verified | Chapters with Q | Past papers listed | Past papers with Q |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| JEE Main | yes | 18 | 0 | 0 | 18/91 | 20 | 0 |
+| JEE Main | yes | 174 | 0 | 0 | 78/91 | 20 | 0 |
 | JEE Advanced | yes | 11 | 0 | 0 | 10/91 | 4 | 0 |
 | MHT CET | yes | 3 | 0 | 0 | 3/91 | 0 | 0 |
 | BITSAT | yes | 5 | 0 | 0 | 5/97 | 0 | 0 |
@@ -21,15 +21,15 @@ Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` 
 | KEAM | extension | 3 | 0 | 0 | 3/91 | 0 | 0 |
 | GUJCET | extension | 3 | 0 | 0 | 3/91 | 0 | 0 |
 | OJEE | extension | 3 | 0 | 0 | 3/91 | 0 | 0 |
-| NEET | yes | 12 | 0 | 0 | 11/91 | 2 | 0 |
+| NEET | yes | 76 | 0 | 0 | 38/91 | 2 | 0 |
 
 ## By subject
 
 | Exam | Subject | Questions | Chapters with Q |
 | --- | --- | --- | --- |
-| JEE Main | Physics | 6 | 6/27 |
-| JEE Main | Chemistry | 6 | 6/32 |
-| JEE Main | Mathematics | 6 | 6/32 |
+| JEE Main | Physics | 58 | 26/27 |
+| JEE Main | Chemistry | 52 | 23/32 |
+| JEE Main | Mathematics | 64 | 29/32 |
 | JEE Advanced | Physics | 4 | 4/27 |
 | JEE Advanced | Chemistry | 4 | 3/32 |
 | JEE Advanced | Mathematics | 3 | 3/32 |
@@ -72,7 +72,7 @@ Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` 
 | OJEE | Mathematics | 1 | 1/32 |
 | NEET | Physics | 3 | 3/27 |
 | NEET | Chemistry | 3 | 3/32 |
-| NEET | Biology | 6 | 5/32 |
+| NEET | Biology | 70 | 32/32 |
 
 ## By paper
 
@@ -123,24 +123,84 @@ Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` 
 
 | Exam | Subject | Chapter | Questions | PYQ |
 | --- | --- | --- | --- | --- |
-| JEE Main | Physics | Units & Measurements | 1 | 0 |
-| JEE Main | Physics | Motion in a Straight Line | 1 | 0 |
-| JEE Main | Physics | Laws of Motion | 1 | 0 |
-| JEE Main | Physics | Heat and Thermodynamics | 1 | 0 |
-| JEE Main | Physics | Current Electricity | 1 | 0 |
-| JEE Main | Physics | Geometrical Optics | 1 | 0 |
-| JEE Main | Chemistry | Some Basic Concepts of Chemistry | 1 | 0 |
-| JEE Main | Chemistry | Solutions | 1 | 0 |
-| JEE Main | Chemistry | Electrochemistry | 1 | 0 |
-| JEE Main | Chemistry | Chemical Bonding & Molecular Structure | 1 | 0 |
-| JEE Main | Chemistry | Coordination Compounds | 1 | 0 |
-| JEE Main | Chemistry | Hydrocarbons | 1 | 0 |
-| JEE Main | Mathematics | Quadratic Equation and Inequalities | 1 | 0 |
-| JEE Main | Mathematics | Complex Numbers | 1 | 0 |
-| JEE Main | Mathematics | Matrices and Determinants | 1 | 0 |
-| JEE Main | Mathematics | Probability | 1 | 0 |
-| JEE Main | Mathematics | Definite Integration | 1 | 0 |
-| JEE Main | Mathematics | Vector Algebra | 1 | 0 |
+| JEE Main | Physics | Units & Measurements | 3 | 0 |
+| JEE Main | Physics | Motion in a Straight Line | 3 | 0 |
+| JEE Main | Physics | Motion in a Plane | 2 | 0 |
+| JEE Main | Physics | Laws of Motion | 3 | 0 |
+| JEE Main | Physics | Work Power & Energy | 2 | 0 |
+| JEE Main | Physics | Center of Mass and Collision | 2 | 0 |
+| JEE Main | Physics | Rotational Motion | 2 | 0 |
+| JEE Main | Physics | Gravitation | 2 | 0 |
+| JEE Main | Physics | Properties of Solids (Elasticity) | 2 | 0 |
+| JEE Main | Physics | Fluid Mechanics | 2 | 0 |
+| JEE Main | Physics | Heat and Thermodynamics | 3 | 0 |
+| JEE Main | Physics | Simple Harmonic Motion | 2 | 0 |
+| JEE Main | Physics | Waves | 2 | 0 |
+| JEE Main | Physics | Electrostatics | 2 | 0 |
+| JEE Main | Physics | Capacitor | 2 | 0 |
+| JEE Main | Physics | Current Electricity | 3 | 0 |
+| JEE Main | Physics | Magnetic Effects of Current | 2 | 0 |
+| JEE Main | Physics | Magnetic Properties of Matter | 2 | 0 |
+| JEE Main | Physics | Electromagnetic Induction | 2 | 0 |
+| JEE Main | Physics | Alternating Current | 2 | 0 |
+| JEE Main | Physics | Electromagnetic Waves | 2 | 0 |
+| JEE Main | Physics | Geometrical Optics | 3 | 0 |
+| JEE Main | Physics | Wave Optics | 2 | 0 |
+| JEE Main | Physics | Dual Nature of Radiation | 2 | 0 |
+| JEE Main | Physics | Atoms and Nuclei | 2 | 0 |
+| JEE Main | Physics | Semiconductor | 2 | 0 |
+| JEE Main | Chemistry | Some Basic Concepts of Chemistry | 3 | 0 |
+| JEE Main | Chemistry | Structure of Atom | 2 | 0 |
+| JEE Main | Chemistry | Thermodynamics | 2 | 0 |
+| JEE Main | Chemistry | Chemical Equilibrium | 2 | 0 |
+| JEE Main | Chemistry | Ionic Equilibrium | 2 | 0 |
+| JEE Main | Chemistry | Redox Reactions | 2 | 0 |
+| JEE Main | Chemistry | Solutions | 3 | 0 |
+| JEE Main | Chemistry | Electrochemistry | 3 | 0 |
+| JEE Main | Chemistry | Chemical Kinetics and Nuclear Chemistry | 2 | 0 |
+| JEE Main | Chemistry | Periodic Table & Periodicity | 2 | 0 |
+| JEE Main | Chemistry | Chemical Bonding & Molecular Structure | 3 | 0 |
+| JEE Main | Chemistry | p-Block Elements | 2 | 0 |
+| JEE Main | Chemistry | d and f Block Elements | 2 | 0 |
+| JEE Main | Chemistry | Coordination Compounds | 3 | 0 |
+| JEE Main | Chemistry | Basics of Organic Chemistry | 2 | 0 |
+| JEE Main | Chemistry | Isomerism | 2 | 0 |
+| JEE Main | Chemistry | Hydrocarbons | 3 | 0 |
+| JEE Main | Chemistry | Haloalkanes and Haloarenes | 2 | 0 |
+| JEE Main | Chemistry | Alcohols, Phenols and Ethers | 2 | 0 |
+| JEE Main | Chemistry | Aldehydes, Ketones and Carboxylic Acids | 2 | 0 |
+| JEE Main | Chemistry | Compounds Containing Nitrogen | 2 | 0 |
+| JEE Main | Chemistry | Biomolecules | 2 | 0 |
+| JEE Main | Chemistry | Practical Organic Chemistry | 2 | 0 |
+| JEE Main | Mathematics | Sets and Relations | 2 | 0 |
+| JEE Main | Mathematics | Logarithm | 2 | 0 |
+| JEE Main | Mathematics | Quadratic Equation and Inequalities | 3 | 0 |
+| JEE Main | Mathematics | Complex Numbers | 3 | 0 |
+| JEE Main | Mathematics | Sequences and Series | 2 | 0 |
+| JEE Main | Mathematics | Permutations and Combinations | 2 | 0 |
+| JEE Main | Mathematics | Binomial Theorem | 2 | 0 |
+| JEE Main | Mathematics | Matrices and Determinants | 3 | 0 |
+| JEE Main | Mathematics | Probability | 3 | 0 |
+| JEE Main | Mathematics | Statistics | 2 | 0 |
+| JEE Main | Mathematics | Trigonometric Ratios & Identities | 2 | 0 |
+| JEE Main | Mathematics | Trigonometric Equations | 2 | 0 |
+| JEE Main | Mathematics | Inverse Trigonometric Functions | 2 | 0 |
+| JEE Main | Mathematics | Properties of Triangle | 2 | 0 |
+| JEE Main | Mathematics | Straight Lines and Pair of Straight Lines | 2 | 0 |
+| JEE Main | Mathematics | Circle | 2 | 0 |
+| JEE Main | Mathematics | Parabola | 2 | 0 |
+| JEE Main | Mathematics | Ellipse | 2 | 0 |
+| JEE Main | Mathematics | Hyperbola | 2 | 0 |
+| JEE Main | Mathematics | Functions | 2 | 0 |
+| JEE Main | Mathematics | Limits, Continuity and Differentiability | 2 | 0 |
+| JEE Main | Mathematics | Differentiation | 2 | 0 |
+| JEE Main | Mathematics | Application of Derivatives | 2 | 0 |
+| JEE Main | Mathematics | Indefinite Integrals | 2 | 0 |
+| JEE Main | Mathematics | Definite Integration | 3 | 0 |
+| JEE Main | Mathematics | Area Under The Curves | 2 | 0 |
+| JEE Main | Mathematics | Differential Equations | 2 | 0 |
+| JEE Main | Mathematics | Vector Algebra | 3 | 0 |
+| JEE Main | Mathematics | 3D Geometry | 2 | 0 |
 | JEE Advanced | Physics | Units & Measurements | 1 | 0 |
 | JEE Advanced | Physics | Rotational Motion | 1 | 0 |
 | JEE Advanced | Physics | Simple Harmonic Motion | 1 | 0 |
@@ -194,8 +254,35 @@ Generated 2026-10-26T16:39:42.796Z from the database. Live version: `/coverage` 
 | NEET | Chemistry | Structure of Atom | 1 | 0 |
 | NEET | Chemistry | Chemical Equilibrium | 1 | 0 |
 | NEET | Chemistry | Chemical Bonding & Molecular Structure | 1 | 0 |
-| NEET | Biology | Cell: The Unit of Life | 2 | 0 |
-| NEET | Biology | Photosynthesis in Higher Plants | 1 | 0 |
-| NEET | Biology | Molecular Basis of Inheritance | 1 | 0 |
-| NEET | Biology | Human Health and Disease | 1 | 0 |
-| NEET | Biology | Ecosystem | 1 | 0 |
+| NEET | Biology | The Living World | 2 | 0 |
+| NEET | Biology | Biological Classification | 2 | 0 |
+| NEET | Biology | Plant Kingdom | 2 | 0 |
+| NEET | Biology | Animal Kingdom | 2 | 0 |
+| NEET | Biology | Morphology of Flowering Plants | 2 | 0 |
+| NEET | Biology | Anatomy of Flowering Plants | 2 | 0 |
+| NEET | Biology | Structural Organisation in Animals | 2 | 0 |
+| NEET | Biology | Cell: The Unit of Life | 4 | 0 |
+| NEET | Biology | Biomolecules | 2 | 0 |
+| NEET | Biology | Cell Cycle and Cell Division | 2 | 0 |
+| NEET | Biology | Photosynthesis in Higher Plants | 3 | 0 |
+| NEET | Biology | Respiration in Plants | 2 | 0 |
+| NEET | Biology | Plant Growth and Development | 2 | 0 |
+| NEET | Biology | Breathing and Exchange of Gases | 2 | 0 |
+| NEET | Biology | Body Fluids and Circulation | 2 | 0 |
+| NEET | Biology | Excretory Products and their Elimination | 2 | 0 |
+| NEET | Biology | Locomotion and Movement | 2 | 0 |
+| NEET | Biology | Neural Control and Coordination | 2 | 0 |
+| NEET | Biology | Chemical Coordination and Integration | 2 | 0 |
+| NEET | Biology | Sexual Reproduction in Flowering Plants | 2 | 0 |
+| NEET | Biology | Human Reproduction | 2 | 0 |
+| NEET | Biology | Reproductive Health | 2 | 0 |
+| NEET | Biology | Principles of Inheritance and Variation | 2 | 0 |
+| NEET | Biology | Molecular Basis of Inheritance | 3 | 0 |
+| NEET | Biology | Evolution | 2 | 0 |
+| NEET | Biology | Human Health and Disease | 3 | 0 |
+| NEET | Biology | Microbes in Human Welfare | 2 | 0 |
+| NEET | Biology | Biotechnology: Principles and Processes | 2 | 0 |
+| NEET | Biology | Biotechnology and its Applications | 2 | 0 |
+| NEET | Biology | Organisms and Populations | 2 | 0 |
+| NEET | Biology | Ecosystem | 3 | 0 |
+| NEET | Biology | Biodiversity and Conservation | 2 | 0 |

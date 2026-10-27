@@ -5,6 +5,7 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { PRACTICE_BATCHES } from '../data/practice';
 import { buildPaperMetadataImport, buildSampleImport } from '../data/sample/sampleDataset';
 import { CATEGORIES, EXAMS } from '../data/taxonomy';
 import { pool, refreshStats } from '../server/db';
@@ -13,7 +14,7 @@ import { hashPassword } from '../server/lib/auth';
 import { commitImport } from '../server/lib/importer';
 import { migrate } from '../server/migrate';
 
-export async function seed({ reset = false, quiet = false } = {}) {
+export async function seed({ reset = false, quiet = false, practice = true } = {}) {
   const log = (...a: unknown[]) => !quiet && console.log(...a);
   if (reset) {
     await pool.query('DROP SCHEMA public CASCADE; CREATE SCHEMA public;');
@@ -60,6 +61,14 @@ export async function seed({ reset = false, quiet = false } = {}) {
     const out = path.resolve(__dirname, '../data/sample/sample-dataset.json');
     fs.writeFileSync(out, JSON.stringify(sample, null, 2));
   }
+  if (practice) {
+    for (const b of PRACTICE_BATCHES) {
+      const done = (await pool.query('SELECT 1 FROM source_records WHERE title = $1', [b.title])).rowCount;
+      if (done) continue;
+      const res = await commitImport(b.build(), { filename: b.title, format: 'json' });
+      log(`practice: ${b.title} → batch #${res.batchId}, ${res.report.counts.questions} questions`);
+    }
+  }
   if (env.ADMIN_EMAIL && env.ADMIN_PASSWORD) {
     await pool.query(
       `INSERT INTO users(email,password_hash,display_name,role) VALUES ($1,$2,'Administrator','admin') ON CONFLICT (email) DO NOTHING`,
@@ -70,7 +79,7 @@ export async function seed({ reset = false, quiet = false } = {}) {
 }
 
 if (require.main === module) {
-  seed({ reset: process.argv.includes('--reset') })
+  seed({ reset: process.argv.includes('--reset'), practice: !process.argv.includes('--no-practice') })
     .then(() => pool.end())
     .catch((e) => {
       console.error(e.report ? JSON.stringify(e.report, null, 2) : e);

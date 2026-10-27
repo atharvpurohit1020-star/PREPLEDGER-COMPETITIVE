@@ -21,7 +21,7 @@ export default defineConfig({
   use: { baseURL: `http://localhost:${PORT}`, trace: 'retain-on-failure', screenshot: 'only-on-failure' },
   projects: [{ name: 'chromium', use: { ...devices['Desktop Chrome'], viewport: { width: 1280, height: 900 } } }],
   webServer: {
-    command: `env ${env} npx tsx scripts/seed.ts --reset && env ${env} npx tsx server/index.ts`,
+    command: `env ${env} npx tsx scripts/seed.ts --reset --no-practice && env ${env} npx tsx server/index.ts`,
     url: `http://localhost:${PORT}/api/health`,
     reuseExistingServer: false,
     timeout: 120_000,

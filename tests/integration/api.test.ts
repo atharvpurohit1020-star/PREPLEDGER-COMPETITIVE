@@ -21,7 +21,7 @@ async function registerStudent(email = `s${Date.now()}${Math.random().toString(3
 }
 
 beforeAll(async () => {
-  await seed({ reset: true, quiet: true });
+  await seed({ reset: true, quiet: true, practice: false });
 });
 afterAll(async () => {
   await pool.end();
